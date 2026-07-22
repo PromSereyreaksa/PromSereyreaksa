@@ -12,7 +12,7 @@ I enjoy building developer tools, AI-powered applications, and products that com
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PromSereyreaksa&theme=dark&animation=stagger&name=askaer" />
 </p>
 
-## Currently Working On
+## 📌 Pinned 
 
 ### <img src="https://raw.githubusercontent.com/COPPSARY/Motionly/main/public/logo.svg" width="28" height="28" />  Motionly
 
