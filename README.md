@@ -23,7 +23,7 @@ https://github.com/COPPSARY/Motionly
 
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/PromSereyreaksa.svg)](https://ghcommits.com/u/PromSereyreaksa)
-[![committers.top badge](https://user-badge.committers.top/cambodia/USERNAME.svg)](https://user-badge.committers.top/cambodia/PromSereyreaksa)
+[![committers.top badge](https://user-badge.committers.top/cambodia_public/PromSereyreaksa.svg)](https://user-badge.committers.top/cambodia_public/PromSereyreaksa)
 
 
 <p align="left">
