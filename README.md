@@ -10,14 +10,14 @@ I enjoy building developer tools, AI-powered applications, and products that com
 
 ## 📌 Pinned 
 
-Open Source I'm Working on,
+Open Source I'm Contributing to,
 
 ### <img src="https://raw.githubusercontent.com/COPPSARY/Motionly/main/public/logo.svg" width="28" height="28" />  Motionly
 
 AI-Native open-source motion graphics editor.
 
 Repository:
-https://github.com/COPPSARY/Motionly
+https://github.com/COPPSARY/Motionly | https://github.com/COPPSARY/MotionlySite
 
 ---
 
