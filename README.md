@@ -17,14 +17,14 @@ Open Source I'm Contributing to,
 AI-Native open-source motion graphics editor.
 
 Repository:
-https://github.com/COPPSARY/Motionly | https://github.com/COPPSARY/MotionlySite
+[Motionly](https://github.com/COPPSARY/Motionly) | [Motionly Website](https://github.com/COPPSARY/MotionlySite)
 
 ### <img src="https://github.com/COPPSARY/Broryat-Website/blob/main/public/branding/logo.png" width="28" height="28" />  Broryat
 
 AI-powered Telegram bot that detects scams, phishing, and malware in Khmer and English, backed by VirusTotal and interchangeable AI providers.
 
 Repository:
-https://github.com/COPPSARY/broryat-bot | [https://github.com/COPPSARY/Broryat-Website](https://github.com/COPPSARY/Broryat-Website)
+[Broryat Bot](https://github.com/COPPSARY/broryat-bot) | [Broryat Website](https://github.com/COPPSARY/Broryat-Website)
 
 
 ---
