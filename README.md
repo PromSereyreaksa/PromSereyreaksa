@@ -24,7 +24,7 @@ Repository:
 AI-powered Telegram bot that detects scams, phishing, and malware in Khmer and English, backed by VirusTotal and interchangeable AI providers.
 
 Repository:
-[Broryat Bot](https://github.com/COPPSARY/broryat-bot) | [Broryat Website](https://github.com/COPPSARY/Broryat-Website)
+[Broryat Bot](https://github.com/COPPSARY/broryat-bot) | [Broryat Website](https://github.com/COPPSARY/Broryat-Website) | [Broryat Agent Harness](https://github.com/COPPSARY/broryat-agents-harness)
 
 
 ---
