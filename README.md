@@ -26,6 +26,13 @@ AI-powered Telegram bot that detects scams, phishing, and malware in Khmer and E
 Repository:
 [Broryat Bot](https://github.com/COPPSARY/broryat-bot) | [Broryat Website](https://github.com/COPPSARY/Broryat-Website) | [Broryat Agent Harness](https://github.com/COPPSARY/broryat-agents-harness)
 
+### <img src="https://github.com/COPPSARY/subshell/blob/main/assets/app-icon.svg" width="28" height="28" />  subshell
+
+subshell a workspace that coordinates your AI agents
+
+Repository:
+[subshell](https://github.com/COPPSARY/subshell)
+
 
 ---
 
@@ -33,10 +40,6 @@ Repository:
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/PromSereyreaksa.svg)](https://ghcommits.com/u/PromSereyreaksa)
 [![committers.top badge](https://user-badge.committers.top/cambodia_public/PromSereyreaksa.svg)](https://user-badge.committers.top/cambodia_public/PromSereyreaksa)
 
-
-<p align="left">
-    <img src="https://streak-stats.demolab.com?user=PromSereyreaksa&theme=dark&hide_border=true" />
-</p>
 
 
 ---
