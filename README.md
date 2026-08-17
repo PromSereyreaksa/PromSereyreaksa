@@ -4,8 +4,6 @@ Software developer based in Phnom Penh, Cambodia.
 
 I enjoy building developer tools, AI-powered applications, and products that combine engineering with design. My interests include software engineering, artificial intelligence, cybersecurity, and creative coding.
 
-> "The first time I touched code, I was modding a game and changing how it worked. That feeling of opening a system, understanding it, and making it do something new has stayed with me."
-
 ---
 
 ## 📌 Pinned 
