@@ -15,7 +15,7 @@ Open Source I'm Contributing to,
 AI-Native open-source motion graphics editor.
 
 Repository:
-[Motionly](https://github.com/COPPSARY/Motify) | [Motionly Website](https://github.com/COPPSARY/motify.video)
+[Motify](https://github.com/COPPSARY/Motify) | [motify.video](https://github.com/COPPSARY/motify.video)
 
 ### <img src="https://github.com/COPPSARY/Broryat-Website/blob/main/public/branding/logo.png" width="28" height="28" />  Broryat
 
