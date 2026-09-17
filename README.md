@@ -10,12 +10,12 @@ I enjoy building developer tools, AI-powered applications, and products that com
 
 Open Source I'm Contributing to,
 
-### <img src="https://raw.githubusercontent.com/COPPSARY/Motionly/main/public/logo.svg" width="28" height="28" />  Motionly
+### <img src="https://raw.githubusercontent.com/COPPSARY/Motify/main/public/logo.svg" width="28" height="28" />  Motify
 
 AI-Native open-source motion graphics editor.
 
 Repository:
-[Motionly](https://github.com/COPPSARY/Motionly) | [Motionly Website](https://github.com/COPPSARY/MotionlySite)
+[Motionly](https://github.com/COPPSARY/Motify) | [Motionly Website](https://github.com/COPPSARY/motify.video)
 
 ### <img src="https://github.com/COPPSARY/Broryat-Website/blob/main/public/branding/logo.png" width="28" height="28" />  Broryat
 
