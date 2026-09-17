@@ -12,7 +12,7 @@ Open Source I'm Contributing to,
 
 ### <img src="https://raw.githubusercontent.com/COPPSARY/Motify/main/public/logo.svg" width="28" height="28" />  Motify
 
-AI-Native open-source motion graphics editor.
+AI tool that makes SaaS explainers and launch videos.
 
 Repository:
 [Motify](https://github.com/COPPSARY/Motify) | [motify.video](https://github.com/COPPSARY/motify.video)
